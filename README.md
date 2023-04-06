@@ -6,7 +6,7 @@ Student Name: Kamala Ramesh
 
 Course: CS 5710 (CRN 22002)
 
-Description: This assignment consists of program snippets that performs basic functions using Numpy and Matplotlib.
+Description: This assignment consists of program snippets that performs basic functions using Pandas. Implementation of Naive Bayes and Linear SVM Models.
 
 Please find below the Google Drive link for Jupyter notebook of the python code:
 https://drive.google.com/file/d/1XpZzz1i1ZXD6FVAeKIfrd81dUJ8Wyzss/view?usp=share_link
